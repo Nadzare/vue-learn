@@ -1,0 +1,9 @@
+{
+  "name": "vue-learn-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix \"Chapter 6/vue-basic\" run serve",
+    "serve": "npm --prefix \"Chapter 6/vue-basic\" run serve",
+    "build": "npm --prefix \"Chapter 6/vue-basic\" run build"
+  }
+}
